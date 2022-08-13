@@ -5,6 +5,7 @@ import org.springframework.stereotype.Service;
 import org.asentors.repository.UserRepository;
 import org.asentors.model.User;
 
+
 @Service
 public class UserServiceImpl implements UserService {
     @Autowired
